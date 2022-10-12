@@ -1,0 +1,30 @@
+
+{
+    "Uzivatele":3,
+    "results":[
+        {
+            "Jmeno": "Uzivatel1",
+            "Adresa":
+                {
+                    "Ulice":"Ulice1",
+                    "Město":"Město1"
+                }
+        },
+        {
+            "Jmeno": "Uzivatel2",
+            "Adresa":
+                {
+                    "Ulice":"Ulice2",
+                    "Město":"Město2"
+                }
+        },
+        {
+            "Jmeno": "Uzivatel3",
+            "Adresa":
+                {
+                    "Ulice":"Ulice3",
+                    "Město":"Město3"
+                }
+        }
+                ]
+}
